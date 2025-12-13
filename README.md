@@ -14,7 +14,19 @@ Several components are incomplete.
 - Abandoned payloads
   
 ---
+## Repository Structure
 
+The repository is organized as follows:
+
+- `src/`- Core implementation
+
+- `scripts/`  - Development and Testing
+
+- `data/`  - Core Database
+
+- `config/`  - Legacy configuration
+
+---
 ## Notes
 
 - Instruction formats changed multiple times
