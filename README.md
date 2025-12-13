@@ -1,8 +1,7 @@
 # Nomad Archive
 This repository contains fragments of an experimental system developed
 as part of the SilentNomad project.
-The original goal was to prototype a lightweight execution environment
-capable of interpreting instruction streams.
+The original goal was to prototype a execution environment capable of interpreting instruction streams.
 Much of the documentation has been lost.
 Several components are incomplete.
 
@@ -19,7 +18,6 @@ Several components are incomplete.
 ## Notes
 
 - Instruction formats changed multiple times
-- Test vectors may appear meaningful but are not guaranteed to decode
 - Some artifacts are preserved for historical reasons only
 
 ---
@@ -27,5 +25,3 @@ Several components are incomplete.
 ## Status
 
 This project is no longer maintained.
-
-Proceed at your own risk.
