@@ -10,14 +10,14 @@ Much of the documentation has been lost.
 Several components are incomplete or intentionally left ambiguous.
 
 # Contents
-Lost experiments
-cryptographic routines
-Abandoned payloads
+-Lost experiments
+-cryptographic routines
+-Abandoned payloads
 
 # Notes
-Instruction format changed multiple times
-Test vectors may appear meaningful but are not guaranteed to decode
-Some artifacts are preserved for historical reasons only
+-Instruction format changed multiple times
+-Test vectors may appear meaningful but are not guaranteed to decode
+-Some artifacts are preserved for historical reasons only
 
 ## Status
 This project is no longer maintained.
