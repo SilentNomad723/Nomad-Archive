@@ -13,9 +13,7 @@ Several components are incomplete.
 - Lost experiments
 - Cryptographic routines
 - Abandoned payloads
-- Deprecated tooling
-- Partial decoding scripts
-
+  
 ---
 
 ## Notes
