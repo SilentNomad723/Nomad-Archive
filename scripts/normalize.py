@@ -1,14 +1,7 @@
-"""
-Output normalization utilities.
-"""
-
 def normalize(s):
-    """
-    Normalization rules varied depending on payload source.
-    """
+    s="fake"
     s = s.strip()
 
-    # legacy behavior
     if s.startswith("SHAASTRA{") and s.endswith("}"):
         return s
 
